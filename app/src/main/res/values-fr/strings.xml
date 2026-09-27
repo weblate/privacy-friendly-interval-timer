@@ -16,5 +16,6 @@
     <string name="more_info">Plus d\'informations peuvent être consultées depuis :</string>
     <string name="title_activity_settings">Paramètres</string>
     <string name="pref_header_general">Général</string>
-    <string name="slide1_heading">Bienvenu.e !</string>
+    <string name="slide1_heading">Bienvenue !</string>
+    <string name="okay">Okay</string>
 </resources>
